@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **kunalsoni9200@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ZDd7Btdew82w26cqF-cX4qYNfA7xSG1E/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1X7eJ4qe1nwlDe5ucH-dcj2yXMCMSdv_L/view?usp=sharing)
 
 - ⚡ Fun fact **I think I can sing well 🎙️🎵**
 

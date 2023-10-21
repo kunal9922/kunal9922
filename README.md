@@ -4,15 +4,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunal9922&label=Profile%20views&color=0e75b6&style=flat" alt="kunal9922" /> </p>
 
-- 🌱 I’m currently learning **Generative Pre-trained Transformers**
+- 🌱 I’m currently learning **Large Language Models, Vector Database**
 
-- 👨‍💻 All of my projects are available at [https://github.com/kunal9922](https://github.com/kunal9922)
+- 👨‍💻 Portfolio available at [https://coderkunal.my.canva.site/portfolio](https://coderkunal.my.canva.site/portfolio)
 
 - 💬 Ask me about **Python, Computer Vision, AI, Databases, and Cryptography**
 
 - 📫 How to reach me **kunalsoni9200@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1TyrA6tqt_DWG7c9DeVzsOyrOfwz2MPYT/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1HrYljfYs3hbvnyPL9s4pZtQK7LRHvx1E/view?usp=share_link)
+
 - ⚡ Fun fact **I think I can sing well 🎙️🎵**
 
 <h3 align="left">Connect with me:</h3>

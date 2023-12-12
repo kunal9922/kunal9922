@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kunalsoni_21__" target="blank"><img align="center" src="https://github.com/kunal9922/kunal9922/assets/53283003/f0a16c80-6ce2-474c-a2aa-3af8df3ced89" alt="kunalsoni_21__" height="40" width="40" /></a>
+<a href="https://twitter.com/kunalsoni_21__" target="blank"><img align="center" src="https://github.com/kunal9922/kunal9922/assets/53283003/fe81b8de-0240-40fe-be29-3e6f71419915" alt="kunalsoni_21__" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/kunalsoni9922/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kunalsoni9922/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/kunal soni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kunal soni" height="30" width="40" /></a>
 <a href="https://instagram.com/kunal.soniii__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kunal.soniii__" height="30" width="40" /></a>

@@ -2,7 +2,8 @@
 <h3 align="center">Aspiring Python programmer dedicated to continuous learning</h3>
 <img align="right" width = 400 style = "border-radius= 50%" src= "https://sircltech.com/assets/images/newgif/python.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kunal9922&label=Profile%20views&color=0e75b6&style=flat" alt="kunal9922" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kunal9922&label=Profile%20views&color=0e75b6&style=flat" alt="kunal9922" />  
+<img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="kunal9922" /> </p>
 
 - 🌱 I’m currently learning **Large Language Models, Vector Database**
 
